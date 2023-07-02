@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Jason Avecilla</h1>
-<h3 align="center">A passionate and dedicated,hardworking,and committed to becoming a dependable and valuable team member jr full stock developer from Philippines</h3>
+<h1 align="center">Hi , I'm Jason Avecilla jr full stock developer, a student pursuing a Bachelor's Degree in Computer Science from the Philippines. </h1>
+<h3 align="center">A passionate and dedicated,hardworking,and committed to becoming a dependable and valuable team member and currently pursuing to master backend technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
