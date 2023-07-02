@@ -1,11 +1,17 @@
 <h1 align="center">Hi , I'm Jason Avecilla</h1>
-<h3 align="center">A passionate full stock developer from Philippines</h3>
+<h3 align="center">A passionate and dedicated,hardworking,and committed to becoming a dependable and valuable team member jr full stock developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
 
 - 🔭 I’m currently working on **Codeversity(Time/attendance)**
+
+- 🌱 I’m currently learning **Backend Frameworks**
+
+- 💬 Ask me about **mysql, MongoDB, PostgreSQL, Oracle D, jest, SQLiteatabase,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react**
+
+- 📫 How to reach me **avecillajason77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
-
-
