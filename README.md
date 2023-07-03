@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Codeversity(Time/attendance)
 
-- 🌱 I’m currently learning Backend Frameworks,Ui/Ux,Cloud Practitioner
+- 🌱 I’m currently learning Backend Frameworks,Ui/Ux,
 
 - 💬 Ask me about **mysql, MongoDB, PostgreSQL, Oracle D, jest, SQLiteatabase,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react**
 
