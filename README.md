@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jason Avecilla Full stock/Mern Stack Developer</h1>
-<h3 align="center">a  student pursuing a Bachelor's Degree in Computer Science from the Philippines. A passionate and dedicated,hardworking,and committed to becoming a dependable and valuable team member and currently pursuing to master Web, especially software technologies</h3>
+<h3 align="center">a  student pursuing a Bachelor's Degree in Computer Science from the Philippines. A passionate and Being able to learn quickly.dedicated,hardworking,and committed to becoming a dependable and valuable team member and currently pursuing to master Web, especially software technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
@@ -12,12 +12,12 @@
 - 👨‍💻 mp1 [https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
 - 👨‍💻 mp2 [https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
-
+- 👨‍💻 capstone [Still Updating Codeversity(Time/attendance)
 - 💬 Ask me about **mysql, MongoDB, PostgreSQL, Oracle D, jest, SQLiteatabase,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react**
 
 - 📫 How to reach me **avecillajason77@gmail.com**
 
-- 👨‍💻 capstone [Still Updating Codeversity(Time/attendance)](Still Updating Codeversity(Time/attendance))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
