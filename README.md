@@ -12,7 +12,7 @@
 - 👨‍💻 mp1 [https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
 - 👨‍💻 mp2 [https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
-- 👨‍💻 capstone [Still Updating Codeversity(Time/attendance)
+- 👨‍💻 capstone Still Updating Codeversity Time/attendance Management system
 - 💬 Ask me about **mysql, MongoDB, PostgreSQL, Oracle D, jest, SQLiteatabase,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react**
 
 - 📫 How to reach me **avecillajason77@gmail.com**
