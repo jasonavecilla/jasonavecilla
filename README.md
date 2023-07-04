@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Codeversity(Time/attendance)**
 
-- 🌱 I’m currently learning **Backend Frameworks,Ui/Ux,Cloud Practitioner**
+- 🌱 I’m currently learning **Backend Frameworks,Ui/Ux,**
 
 - 👨‍💻 mp1 [https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
