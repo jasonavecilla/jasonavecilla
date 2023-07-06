@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Jason Guerrero Full stock/Mern Stack Developer</h1>
+<h1 align="center">Hi , I'm Jason Guerrero Full stack/Mern Stack Developer</h1>
 <h3 align="center">a  student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. A passionate and Being able to learn quickly.dedicated,hardworking,and committed to becoming a dependable and valuable team member and currently pursuing to master Web, especially software technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
