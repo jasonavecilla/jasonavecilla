@@ -31,7 +31,7 @@
   <samp>
     <a href="">「 Google Me 」</a>
     <br>
-    「 I am a full FULL/MERN/MEAN/MEVN stack  developer from <b>Philippines <br student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, especially software technologies</b> 」
+    「 I am a full FULL/MERN/MEAN/MEVN stack  developer from <b>Philippines <br> student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, especially software technologies</b> 」
     <br>
     <br>
   </samp>
