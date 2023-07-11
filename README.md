@@ -117,6 +117,27 @@ Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,PostgreSQL,MySQL,Mocha,JavaScript,
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='framer' src='https://img.shields.io/badge/framer-100000?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe illustrator' src='https://img.shields.io/badge/adobe_illustrator-100000?style=for-the-badge&logo=adobe illustrator&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jasmine' src='https://img.shields.io/badge/jasmine-100000?style=for-the-badge&logo=jasmine&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jest' src='https://img.shields.io/badge/jest-100000?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mocha' src='https://img.shields.io/badge/mocha-100000?style=for-the-badge&logo=mocha&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Next.js' src='https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe Photoshop' src='https://img.shields.io/badge/adobe_Photoshop-100000?style=for-the-badge&logo=adobe Photoshop&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postgresolsql.org' src='https://img.shields.io/badge/postgresolsql.org-100000?style=for-the-badge&logo=postgresolsql.org&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sass' src='https://img.shields.io/badge/sass-100000?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sketch' src='https://img.shields.io/badge/sketch-100000?style=for-the-badge&logo=sketch&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='svelte' src='https://img.shields.io/badge/svelte-100000?style=for-the-badge&logo=svelte&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='tailwindcss' src='https://img.shields.io/badge/tailwindcss-100000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vue.js' src='https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vuetifyjs' src='https://img.shields.io/badge/Vuetifyjs-100000?style=for-the-badge&logo=Vuetifyjs&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe xd' src='https://img.shields.io/badge/adobe_xd-100000?style=for-the-badge&logo=adobe xd&logoColor=white&labelColor=000000&color=black'/></a>
 
 <br/>
 
