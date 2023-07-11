@@ -71,11 +71,7 @@
  💬 &emsp; Ask me about anything [here](
 Angular,Vue.js,
 Bootstrap,Next.js,Semantic-UI Framework,Backbone.js,Preact Framework,Svelte Framework,Foundation,Reac,Material-UI,Ant Design ,React Bootstrap.,Chakra U,Blueprint,visx,Fluent,Semantic UI React,,Headless UI,React-admin, Retool,Grommet,Evergreen,Rebass,Mantine,Next UI,React Route,Theme UI,PrimeReact,React Redux,Gestalt,React Motion,React Virtualized,
-Python,
-Java,
-Nodejs,
-JavaScript,PHP,
-SQL,MongoDB,PostgreSQL,MySQL)
+Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,PostgreSQL,MySQL,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react)
 
 </p>
 
