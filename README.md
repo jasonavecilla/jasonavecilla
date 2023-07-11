@@ -36,7 +36,7 @@
     <br>
   </samp>
 </p>
-
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 <p align="center">
  <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
