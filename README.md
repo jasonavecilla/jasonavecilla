@@ -66,8 +66,8 @@
   &emsp; The Source MP2  https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk <br/><br/>
   &emsp; Codeversity Time and attendance management system  https://docs.google.com/presentation/d/1xq09_vfIte_bAlwpewpE5pSths2Mlutd9GC0p3bYDNw/edit#slide=id.p <br/><br/>
   &emsp; Reach me anytime: avecillajason77@gmail.com<br/><br/>
- &emsp; Ask me about anything [here](Angular,Vue.js,Bootstrap,Next.js,Semantic-UI Framework,Backbone.js,Preact Framework,Svelte Framework,Foundation,Reac,Material-UI,Ant Design ,React Bootstrap.,Chakra U,Blueprint,visx,Fluent,Semantic UI React,,Headless UI,React-admin, Retool,Grommet,Evergreen,Rebass,Mantine,Next UI,React Route,Theme UI,PrimeReact,React Redux,Gestalt,React Motion,React Virtualized,
-Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,PostgreSQL,MySQL,Mocha,JavaScript,PHP,Java,C#,Python, Angular, Next.js,react)
+ &emsp; Ask me about anything [here](Angular,Vue.js,Next.js
+Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,MySQL,Mocha,JavaScript,PHP,Java,C#,C,Python, Angular, Next.js,react)
 
 </p>
 
@@ -125,6 +125,8 @@ Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,PostgreSQL,MySQL,Mocha,JavaScript,
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vue.js' src='https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vuetifyjs' src='https://img.shields.io/badge/Vuetifyjs-100000?style=for-the-badge&logo=Vuetifyjs&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe xd' src='https://img.shields.io/badge/adobe_xd-100000?style=for-the-badge&logo=adobe xd&logoColor=white&labelColor=000000&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' AngularJS' src='https://img.shields.io/badge/_AngularJS-100000?style=for-the-badge&logo= AngularJS&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
 <br/>
 
 
