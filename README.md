@@ -93,6 +93,8 @@ Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,MySQL,Mocha,JavaScript,PHP,Java,C#
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='angular' src='https://img.shields.io/badge/angular-100000?style=for-the-badge&logo=angular&logoColor=white&labelColor=red&color=red'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' AngularJS' src='https://img.shields.io/badge/_AngularJS-100000?style=for-the-badge&logo= AngularJS&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='backbonejs.org' src='https://img.shields.io/badge/backbonejs.org-100000?style=for-the-badge&logo=backbonejs.org&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='bulma' src='https://img.shields.io/badge/bulma-100000?style=for-the-badge&logo=bulma&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='c' src='https://img.shields.io/badge/language-100000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000&color=black'/></a>
@@ -110,7 +112,6 @@ Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,MySQL,Mocha,JavaScript,PHP,Java,C#
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jasmine' src='https://img.shields.io/badge/jasmine-100000?style=for-the-badge&logo=jasmine&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jest' src='https://img.shields.io/badge/jest-100000?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mocha' src='https://img.shields.io/badge/mocha-100000?style=for-the-badge&logo=mocha&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000&color=black'/></a>
@@ -125,8 +126,7 @@ Python,Java,Nodejs,JavaScript,PHP,SQL,MongoDB,MySQL,Mocha,JavaScript,PHP,Java,C#
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vue.js' src='https://img.shields.io/badge/Vue.js-100000?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Vuetifyjs' src='https://img.shields.io/badge/Vuetifyjs-100000?style=for-the-badge&logo=Vuetifyjs&logoColor=white&labelColor=000000&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe xd' src='https://img.shields.io/badge/adobe_xd-100000?style=for-the-badge&logo=adobe xd&logoColor=white&labelColor=000000&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' AngularJS' src='https://img.shields.io/badge/_AngularJS-100000?style=for-the-badge&logo= AngularJS&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
+
 <br/>
 
 
