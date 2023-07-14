@@ -7,7 +7,7 @@
 
 - I’m currently working on [Codeversity(Time/attendance)](https://docs.google.com/presentation/d/1xq09_vfIte_bAlwpewpE5pSths2Mlutd9GC0p3bYDNw/edit#slide=id.p)
 
-- project link **Backend Frameworks,Ui/Ux,**
+- I’m currently learning **Linux**
 
 - project link [The Source](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
