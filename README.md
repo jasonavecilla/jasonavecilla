@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
 
-- I’m currently working on [Codeversity(Time and attendance)](https://docs.google.com/presentation/d/1xq09_vfIte_bAlwpewpE5pSths2Mlutd9GC0p3bYDNw/edit#slide=id.p)
+- I’m currently working on [Codeversity Time and attendance management system](https://docs.google.com/presentation/d/1xq09_vfIte_bAlwpewpE5pSths2Mlutd9GC0p3bYDNw/edit#slide=id.p)
 
 - I’m currently working on [Kodeclock](/)
   
