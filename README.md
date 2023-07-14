@@ -9,7 +9,7 @@
 
 - I’m currently working on [Codeclock](/)
   
-- - I’m currently working on [Codeversity inventory system](/)
+-  I’m currently working on [Codeversity inventory system](/)
 
 - I’m currently learning **Linux**
 
