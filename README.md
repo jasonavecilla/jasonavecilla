@@ -13,7 +13,7 @@
 
 -    I’m currently working on [Codeversity enrollment system](/)
 
-- I’m currently learning **Linux**
+- I’m currently learning **Linux,Mobile application**
 
 - project link [The Source](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
