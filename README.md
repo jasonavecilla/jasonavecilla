@@ -15,15 +15,17 @@
 
 - I’m currently learning **Linux,Mobile application**
 - 
-- project  link[Calculator]https://llanes.wd49p.com/practice-calc/jquery-calc.html?fbclid=IwAR2qh6nMhJLKXTckEfYJZ3SWiTqt2UOfYYYtXlnSil8tdA8gWmygOxdea_o
+- mini activity  link[Calculator]https://llanes.wd49p.com/practice-calc/jquery-calc.html?fbclid=IwAR2qh6nMhJLKXTckEfYJZ3SWiTqt2UOfYYYtXlnSil8tdA8gWmygOxdea_o
   
 - project MP1 link [The Source](https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk)
 
 - project MP2 link [The Source]([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)
 
-- mini project link [animate-background-image][([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)](https://llanes.wd49p.com/animate-background-image/?fbclid=IwAR1RmE3TVbKvBMZj8rRoCl8gIIlhTPKI27VzEMh0XWql3wxT609mPVstiM4)
+- mini activity link [animate-background-image][([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)](https://llanes.wd49p.com/animate-background-image/?fbclid=IwAR1RmE3TVbKvBMZj8rRoCl8gIIlhTPKI27VzEMh0XWql3wxT609mPVstiM4)
 
-- - mini project link [color-mixer][[([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)](https://llanes.wd49p.com/animate-background-image/?fbclid=IwAR1RmE3TVbKvBMZj8rRoCl8gIIlhTPKI27VzEMh0XWql3wxT609mPVstiM4)](https://llanes.wd49p.com/color-mixer/?fbclid=IwAR2qh6nMhJLKXTckEfYJZ3SWiTqt2UOfYYYtXlnSil8tdA8gWmygOxdea_o)
+-  mini activity link [color-mixer][[([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)](https://llanes.wd49p.com/animate-background-image/?fbclid=IwAR1RmE3TVbKvBMZj8rRoCl8gIIlhTPKI27VzEMh0XWql3wxT609mPVstiM4)](https://llanes.wd49p.com/color-mixer/?fbclid=IwAR2qh6nMhJLKXTckEfYJZ3SWiTqt2UOfYYYtXlnSil8tdA8gWmygOxdea_o)
+
+-  mini activity link [admin_client_activity][[[([https://llanes.wd49p.com/02-mp/pages/?fbclid=IwAR0mSfe2LtPTSq9JQqWWAl1Vjde9l07ia2atZ1tna7Uz1k2RWFPI7FER4mk](https://docs.google.com/presentation/d/1Rmq8BlR3wsMZKETXVu0a--ZtMERNcT3u/edit?fbclidIwAR25ZR38U3JGgF0XvCakAjh2h1R0d6bxIpEbV1Q4c8b4NvtaJI5MgF4zwfs#slide=id.p22)](https://llanes.wd49p.com/animate-background-image/?fbclid=IwAR1RmE3TVbKvBMZj8rRoCl8gIIlhTPKI27VzEMh0XWql3wxT609mPVstiM4)](https://llanes.wd49p.com/color-mixer/?fbclid=IwAR2qh6nMhJLKXTckEfYJZ3SWiTqt2UOfYYYtXlnSil8tdA8gWmygOxdea_o)](https://llanes.wd49p.com/admin_client_activity/admin/?fbclid=IwAR2vniywQtoi23zmkxjo3oumwFKzS61C-RDlLXSIfJXbHBXwTnDdmpbgbzw)
 
 - How to reach me **avecillajason77@gmail.com**
 
