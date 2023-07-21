@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi , I'm Jason Guerrero</h1>
 <h3 align="center">I am a FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially mobile application</h3>
 
