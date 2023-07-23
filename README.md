@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi , I'm Jason Guerrero</h1>
-<h3 align="center">I am a FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially mobile application</h3>
+<h3 align="center">I am a FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially software application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
 
 
-- I’m currently learning **Linux,Mobile application**
+- I’m currently learning **Linux,UI/UX,Mobile application,**
 
 - How to reach me **avecillajason77@gmail.com**
 
