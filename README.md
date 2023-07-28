@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jason Guerrero</h1>
-<h3 align="center">I am a FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially software application</h3>
+<h3 align="center">I am a Social Media Specialist & FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially software application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
