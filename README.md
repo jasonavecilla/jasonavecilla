@@ -1,13 +1,8 @@
 <h1 align="center">Hi , I'm Jason Guerrero</h1>
 
-<style>
-.center {
-  text-align: center;
-}
-</style>
-<div class="center">
+
   <img src="https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.15752-9/364221948_3488101401405701_5509572235950078103_n.png?_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZzcLjQt8E70AX_aFY-n&_nc_ht=scontent.fmnl3-1.fna&oh=03_AdTJ14ZGKrp0RWKzTgGQKaqR_J8v3JYUqtS1zMwJaPiiRA&oe=64EF63EC" alt="#" >
-</div>
+
 <h3 align="center">a former student of Kodego,I am a Social Media Specialist & FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially software application</h3>
 
 
