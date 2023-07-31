@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Jason Guerrero</h1>
-![Header](./your-header-image-name.png)
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <h3 align="center">a former student of Kodego,I am a Social Media Specialist & FULL stack developer from Philippines a student pursuing a B.S. in Computer Science and Information Engineering (Dual Degree) from the Philippines. and currently pursuing to master Web, specially software application</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat](https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.15752-9/364221948_3488101401405701_5509572235950078103_n.png?_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZzcLjQt8E70AX_aFY-n&_nc_ht=scontent.fmnl3-1.fna&oh=03_AdTJ14ZGKrp0RWKzTgGQKaqR_J8v3JYUqtS1zMwJaPiiRA&oe=64EF63EC)" alt="jasonavecilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
 
