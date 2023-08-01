@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Profile
+<h3 align="center">
 🎓 Former Kodego student | Social Media Specialist & Full Stack Developer |🇵🇭   
 🔛Currently undergoing a dual degree program in B.S. Computer Science & Information Engineering
 
