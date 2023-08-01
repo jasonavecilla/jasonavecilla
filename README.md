@@ -2,10 +2,10 @@
 
 
 
-<h3 align="center">
+<h5 align="center">
 Social Media Specialist & Full Stack Developer | Kodego Alum 🎓 | Pursuing B.S. in Computer Science & Information Engineering 🖥️ | Proudly From the Philippines 🇵🇭
 Specializing in streamlining online presence, creating powerful web applications, and leveraging my technical skills to elevate businesses. Excited to be on the cutting edge of technology and innovation. Let's connect and code the future together. 💼⚙️💡
-</h3>
+</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
