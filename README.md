@@ -3,13 +3,8 @@
 
 
 <h3 align="center">
-🎓 Former Kodego student | Social Media Specialist & Full Stack Developer |🇵🇭   
-🔛Currently undergoing a dual degree program in B.S. Computer Science & Information Engineering
-
-About Me
-With a knack for coding and a passion for social media, I'm a tenacious full stack developer eager to solve complex problems and build innovative web solutions. Having the opportunity to study at Kodego has sharpened my skills and broadened my perspective in tech development. I am now further enhancing my abilities through a dual degree program in Computer Science and Information Engineering.
-Leveraging my social media expertise, I aim to create compelling online stories that combine intuitive design and relevant technology.
-Based in the vibrant islands of the Philippines, I am looking forward to collaborate with global minds and create valuable digital experiences.  
+Social Media Specialist & Full Stack Developer | Kodego Alum 🎓 | Pursuing B.S. in Computer Science & Information Engineering 🖥️ | Proudly From the Philippines 🇵🇭
+Specializing in streamlining online presence, creating powerful web applications, and leveraging my technical skills to elevate businesses. Excited to be on the cutting edge of technology and innovation. Let's connect and code the future together. 💼⚙️💡
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
