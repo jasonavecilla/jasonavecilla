@@ -31,7 +31,9 @@ Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopif
 <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="wx_widgets" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="wx_widgets" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/?size=512&id=ZMFmFsekpKfY&format=png" alt="wx_widgets" width="40" height="40"/> </a>
-<img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="wx_widgets" width="40" height="40"/> </a></p>
+<img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="wx_widgets" width="40" height="40"/> </a>
+<img src="https://img.icons8.com/?size=512&id=gCwuVuZZXWfx&format=png" alt="wx_widgets" width="40" height="40"/> </a>
+<img src="https://img.icons8.com/?size=512&id=fO5yVwARGUEB&format=png" alt="wx_widgets" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p>
 
