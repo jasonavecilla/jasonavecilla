@@ -3,7 +3,7 @@
 
 
 <h5 align="center">
-Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopify Development ⚙️ | Proud Kodego Alum 🎓 | Currently honing my skills in Computer Science & Information Engineering at Adamson University. Join me on this exciting journey of innovation and coding! 🚀 💻
+Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopify Development ⚙️ | Proud Kodego & KODA Alum 🎓 | Currently honing my skills in Computer Science & Information Engineering at Adamson University. Join me on this exciting journey of innovation and coding! 🚀 💻
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p>
 
