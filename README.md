@@ -11,7 +11,6 @@ Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopif
 
 
 -  📫 How to reach me **avecillajason77@gmail.com
-- 📄 Know about my experiences [https://www.canva.com/design/DAFrDbcQpOs/](https://www.canva.com/design/DAFrDbcQpOs/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jason avecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jason avecilla" height="30" width="40" /></a>
