@@ -11,6 +11,7 @@ Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopif
 
 
 -  📫 How to reach me avecillajason77@gmail.com
+- 📄 Know about my experiences [https://cdn.fbsbx.com/v/t59.2708-21/366068025_671309384875818_8623996073163178591_n.pdf/Navy-White-Modern-Professional-Resume-2.pdf?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=yhUWnaEKzWgAX91cah6&_nc_ht=cdn.fbsbx.com&oh=03_AdR-ky2phz8z6ioR5G7CbmchyJQnlq_-D8bF3K1YXgatGA&oe=64D55EA9&dl=1](https://cdn.fbsbx.com/v/t59.2708-21/366068025_671309384875818_8623996073163178591_n.pdf/Navy-White-Modern-Professional-Resume-2.pdf?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=yhUWnaEKzWgAX91cah6&_nc_ht=cdn.fbsbx.com&oh=03_AdR-ky2phz8z6ioR5G7CbmchyJQnlq_-D8bF3K1YXgatGA&oe=64D55EA9&dl=1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jason avecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jason avecilla" height="30" width="40" /></a>
