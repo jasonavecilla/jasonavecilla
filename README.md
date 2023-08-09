@@ -9,8 +9,9 @@ Social Media Specialist & Full Stack Developer | Specialty in Wordpress & Shopif
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a> </p>
 
-- How to reach me **avecillajason77@gmail.com**
 
+-  📫 How to reach me **avecillajason77@gmail.com
+- 📄 Know about my experiences [https://www.canva.com/design/DAFrDbcQpOs/](https://www.canva.com/design/DAFrDbcQpOs/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jason avecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jason avecilla" height="30" width="40" /></a>
