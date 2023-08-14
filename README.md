@@ -11,7 +11,7 @@ Full Stack Developer | Proud Kodego & KODA Alum 🎓 | Currently honing my skill
 
 
 -  📫 How to reach me avecillajason77@gmail.com
-
+- 📄 Know about my experiences [https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?utm_content=DAFrhpRSVNA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?utm_content=DAFrhpRSVNA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jason avecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jason avecilla" height="30" width="40" /></a>
