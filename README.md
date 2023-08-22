@@ -37,6 +37,7 @@ Full Stack Developer | Proud Kodego & KODA Alum 🎓 | Currently honing my skill
 <img src="https://img.icons8.com/?size=512&id=fO5yVwARGUEB&format=png" alt="wx_widgets" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/?size=1x&id=40253&format=png" alt="wx_widgets" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp" alt="wx_widgets" width="40" height="40"/>
+<img src="https://scontent.fmnl3-3.fna.fbcdn.net/v/t39.30808-6/345656965_568326905449162_4081817177961409745_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEgw_Y57f4dRN1JzDxiRvYL3QWoSjObBv7dBahKM5sG_kVAwAWFw4iHo_OxCkZ5BzMWFN0S58gR8mS6qTcRjW4Z&_nc_ohc=IbinljVehxIAX_Ue4XG&_nc_ht=scontent.fmnl3-3.fna&oh=00_AfBKGddTijf7OU5ykIfIwQBgw4NTuCZFgif1u5nwTv8myQ&oe=64E9E65E" alt="wx_widgets" width="40" height="40"/>
 </a>
 </p>
 
