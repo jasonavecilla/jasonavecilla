@@ -80,6 +80,18 @@ Let's code and create magic! ✨✨</h3>
 
 </td>
   </tr>
+    <tr>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-3b6ca9cd-7770-46f4-986e-0f2fbd51433e.jpg?v=1696403071000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d01e9e51-2435-4d4c-88ba-d0fdafa70828.jpg?v=1696403183000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-23ff3974-c942-42a9-97d2-eab0c82e6a0e.jpg?v=1696403276000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2ff6a2c2-3018-4804-8fcf-af7046ffb998.jpg?v=1696403236000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-38247e2c-fbf9-4279-8bc0-5d8f2c0c0005.jpg?v=1696403291000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1e040487-98fa-44e5-85e7-e7da98bf43a0.jpg?v=1696403353000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a6be90ab-542c-4491-8d1a-e01e8b914263.jpg?v=1696403413000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-940c6fb9-5b9f-4e88-a13f-a0248843aeb6.jpg?v=1696403545000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b21c7584-4d51-4320-ba49-52be5f80784c.jpg?v=1696403986000" alt="" width="150" height="100">
+</td>
+  </tr>
 </table>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a>  <p align="left"> </p></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
