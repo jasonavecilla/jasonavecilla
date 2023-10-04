@@ -108,6 +108,19 @@ Let's code and create magic! ✨✨</h3>
 
 </td>
   </tr>
+  <tr>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-eecb53e8-27c8-4b2b-9d9a-2940ac59edba.jpg?v=1696405573000" alt="" width="150" height="100">
+
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0045cd76-4de9-4ada-9467-343f133ff7a5.jpg?v=1696405494000" alt="" width="150" height="100">
+
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7e65d510-bea8-49cd-8a1b-10b933d13bb0.jpg?v=1696405602000" alt="" width="150" height="100">
+
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7e65d510-bea8-49cd-8a1b-10b933d13bb0.jpg?v=1696405602000" alt="" width="150" height="100">
+
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0a8c82b7-e313-47d7-a615-b39d0649850f.jpg?v=1696405603000" alt="" width="150" height="100">
+
+</td>
+  </tr>
 </table>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a>  <p align="left"> </p></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
