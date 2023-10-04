@@ -46,7 +46,8 @@ Let's code and create magic! ✨✨</h3>
     <H2> I’m currently learning  </H2>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=black'/></a>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java_mobile app dev-100000?style=for-the-badge&logo=Java&logoColor=white&labelColor=black&color=black'/></a>
-  <br> <h2> uploading 525 certificate</h2>  
+  <br> <h2>certificate</h2>  
+  <p> still uploading the 529 certificate</p>  
 <table>
   <tr>
 <td><img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ADVhk3DISpgAX_W_Sfw&_nc_ht=scontent.fmnl33-1.fna&oh=03_AdQdr89kRsoZz8A1AZccKUztLK7mTTNtKgpuVnJMga2QbA&oe=6544728F" alt="" width="150" height="100">
