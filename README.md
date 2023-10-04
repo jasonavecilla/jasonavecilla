@@ -45,5 +45,42 @@ Let's code and create magic! ✨✨</h3>
     <H2> I’m currently learning  </H2>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=black'/></a>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java_mobile app dev-100000?style=for-the-badge&logo=Java&logoColor=white&labelColor=black&color=black'/></a>
+
+<table>
+  <tr>
+    <td><img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ADVhk3DISpgAX_W_Sfw&_nc_ht=scontent.fmnl33-1.fna&oh=03_AdQdr89kRsoZz8A1AZccKUztLK7mTTNtKgpuVnJMga2QbA&oe=6544728F" alt="" width="150" height="100">
+</td>
+      <td><img src="https://camo.githubusercontent.com/46a6f1e3d88794d1bd9f8a8e1c412392f223336d27109d2de114a9f6ac6215fc/68747470733a2f2f7564656d792d63657274696669636174652e73332e616d617a6f6e6177732e636f6d2f696d6167652f55432d65633139373661612d336334362d343633652d383862322d6235636336616439643830332e6a70673f763d31363934373432393036303030" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9b898b89-f5ad-42d3-ad13-a46ec9b7fa05.jpg?v=1696400614000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-71f77d4e-7138-4329-8daa-ea6962bb055f.jpg?v=1696400960000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e5c6229e-cd4a-44f0-a698-fc38f17ddd42.jpg?v=1696401377000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0c2acd94-533c-4474-b12c-436f7041730a.jpg?v=1696401333000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0874d22f-3900-436f-8bd9-b68201d9a42e.jpg?v=1696401371000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f77c7461-b785-483f-b218-a56852534cb1.jpg?v=1696401730000" alt="" width="150" height="100">
+</td>
+  </tr>
+  <tr>
+   <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f7ca2ba7-44b6-4269-9b69-cf6d42cdb847.jpg?v=1696401847000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e3dc4c64-d608-4f2c-b6f4-5f4197aa3a13.jpg?v=1696401869000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-c9126aa3-a872-4b4b-a957-b32c121bc1f7.jpg?v=1696401890000" alt="" width="150" height="100">
+</td>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d970d5e6-be33-4f08-9a92-d2244af9265b.jpg?v=1696402433000" alt="" width="150" height="100">
+
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d7d61d0e-8a1a-4786-96a9-6035de719b0b.jpg?v=1696402464000" alt="" width="150" height="100">
+</td><td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4db79732-7126-4317-a83a-c98c0f4c2210.jpg?v=1696402481000" alt="" width="150" height="100">
+</td><td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2d1f38e5-7fb8-436d-829e-1bed7a0fc278.jpg?v=1696402498000" alt="" width="150" height="100">
+
+</td>
+  </tr>
+</table>
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a>  <p align="left"> </p></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
 
