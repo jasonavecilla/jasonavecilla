@@ -92,6 +92,22 @@ Let's code and create magic! ✨✨</h3>
 <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b21c7584-4d51-4320-ba49-52be5f80784c.jpg?v=1696403986000" alt="" width="150" height="100">
 </td>
   </tr>
+  <tr>
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-43c0010d-8315-4c90-a6ba-52373cd2a263.jpg?v=1696404672000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-24c679c1-e566-467f-8fa8-028328adcdb7.jpg?v=1696404798000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-625ba4b5-baa4-4cbe-8740-fcd8db27c167.jpg?v=1696404807000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-8aea6a10-f21f-46af-82c7-50d3c7dd1ea4.jpg?v=1696404828000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-43c0010d-8315-4c90-a6ba-52373cd2a263.jpg?v=1696404672000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-22b48ad7-cc70-4c13-ad2f-cc4049059ae5.jpg?v=1696404766000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9c10cd6f-88c5-4eca-b127-41430fb7e51d.jpg?v=1696404846000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9834585c-11bf-44c4-a230-74b03336dcbf.jpg?v=1696404531000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe2741ad-2216-42a0-a3a2-c7174cdad6b9.jpg?v=1696404518000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe2741ad-2216-42a0-a3a2-c7174cdad6b9.jpg?v=1696404518000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-28743075-7c0c-4edd-9a88-566afaa972d1.jpg?v=1696404447000" alt="" width="150" height="100">
+<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-33ea29ac-616f-453e-99cc-3dcf65302b92.jpg?v=1696404413000" alt="" width="150" height="100">
+
+</td>
+  </tr>
 </table>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a>  <p align="left"> </p></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
