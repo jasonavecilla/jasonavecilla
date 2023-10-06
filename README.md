@@ -122,7 +122,8 @@ Let's code and create magic! ✨✨</h3>
 <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7e65d510-bea8-49cd-8a1b-10b933d13bb0.jpg?v=1696405602000" alt="" width="150" height="100">
 
 <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0a8c82b7-e313-47d7-a615-b39d0649850f.jpg?v=1696405603000" alt="" width="150" height="100">
-
+ <td><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/384835914_805734724891120_8913100853015000092_n.jpg?stp=dst-jpg_s261x260&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=MBuT3FJ3ricAX9JQpg5&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS1EXFrS6HXFveS32nAtyBQ_1rfoDzIH2XnXOwVS4FEzg&oe=65472B41" alt="" width="150" height="100">
+</td>
 </td>
 </td>
   </tr>
