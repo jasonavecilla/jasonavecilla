@@ -45,7 +45,7 @@ Let's code and create magic! ✨✨</h3>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
     <H2> I’m currently learning  </H2>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=black'/></a>
-    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java_mobile app dev-100000?style=for-the-badge&logo=Java&logoColor=white&labelColor=black&color=black'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black&color=black'/></a>
   <br> <h2>certificate</h2>  
   <p> still uploading the 529 certificate</p>  
 <table>
