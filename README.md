@@ -6,6 +6,7 @@ Being a creative problem solver, I thrive on utilizing my expertise to develop s
 Feel free to reach out to me through my social media channels or drop me a message. I'm always eager to meet new individuals, discuss ideas, or explore opportunities that can push boundaries and elevate the digital landscape.
 Let's code and create magic! ✨✨</h3>
 <h2>language and framework</h2>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go_lang-100000?style=for-the-badge&logo=Go&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='rust' src='https://img.shields.io/badge/rust-100000?style=for-the-badge&logo=rust&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='ASP.NET MVC' src='https://img.shields.io/badge/ASP.NET_MVC-100000?style=for-the-badge&logo=ASP.NET MVC&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Spark' src='https://img.shields.io/badge/Spark-100000?style=for-the-badge&logo=Spark&logoColor=white&labelColor=black&color=black'/></a>
