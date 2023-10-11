@@ -46,86 +46,17 @@ Let's code and create magic! ✨✨</h3>
     <H2> I’m currently learning  </H2>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=black'/></a>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black&color=black'/></a>
+     <br> <h2>CSS component library</h2>  
+     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
   <br> <h2>certificate</h2>  
-  <p> still uploading the 529 certificate</p>  
+  <p> still uploading the 600 certificate</p>  
 <table>
   <tr>
 <td><img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ADVhk3DISpgAX_W_Sfw&_nc_ht=scontent.fmnl33-1.fna&oh=03_AdQdr89kRsoZz8A1AZccKUztLK7mTTNtKgpuVnJMga2QbA&oe=6544728F" alt="" width="150" height="100">
 </td>
-      <td><img src="https://camo.githubusercontent.com/46a6f1e3d88794d1bd9f8a8e1c412392f223336d27109d2de114a9f6ac6215fc/68747470733a2f2f7564656d792d63657274696669636174652e73332e616d617a6f6e6177732e636f6d2f696d6167652f55432d65633139373661612d336334362d343633652d383862322d6235636336616439643830332e6a70673f763d31363934373432393036303030" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9b898b89-f5ad-42d3-ad13-a46ec9b7fa05.jpg?v=1696400614000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-71f77d4e-7138-4329-8daa-ea6962bb055f.jpg?v=1696400960000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e5c6229e-cd4a-44f0-a698-fc38f17ddd42.jpg?v=1696401377000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0c2acd94-533c-4474-b12c-436f7041730a.jpg?v=1696401333000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0874d22f-3900-436f-8bd9-b68201d9a42e.jpg?v=1696401371000" alt="" width="150" height="100">
-</td>
-  </tr>
-  <tr>
-     <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f7ca2ba7-44b6-4269-9b69-cf6d42cdb847.jpg?v=1696401847000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e3dc4c64-d608-4f2c-b6f4-5f4197aa3a13.jpg?v=1696401869000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-c9126aa3-a872-4b4b-a957-b32c121bc1f7.jpg?v=1696401890000" alt="" width="150" height="100">
-</td>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d970d5e6-be33-4f08-9a92-d2244af9265b.jpg?v=1696402433000" alt="" width="150" height="100">
+       <td><img src="https://scontent.fmnl33-4.fna.fbcdn.net/v/t1.15752-9/384531107_814062557166726_6174014987154768819_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=i1DicYLszvkAX9KPU_X&_nc_ht=scontent.fmnl33-4.fna&oh=03_AdR1CzBjLUlfGLu29UijdDpise1ZnJkvOO0_rEfcv-BI_Q&oe=65475076" alt="" width="150" height="100">
 
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d7d61d0e-8a1a-4786-96a9-6035de719b0b.jpg?v=1696402464000" alt="" width="150" height="100">
-</td><td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4db79732-7126-4317-a83a-c98c0f4c2210.jpg?v=1696402481000" alt="" width="150" height="100">
-</td><td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2d1f38e5-7fb8-436d-829e-1bed7a0fc278.jpg?v=1696402498000" alt="" width="150" height="100">
-
-</td>
-  </tr>
-  <tr>
- <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f77c7461-b785-483f-b218-a56852534cb1.jpg?v=1696401730000" alt="" width="150" height="100">
-</td>
-  <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-3b6ca9cd-7770-46f4-986e-0f2fbd51433e.jpg?v=1696403071000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d01e9e51-2435-4d4c-88ba-d0fdafa70828.jpg?v=1696403183000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-23ff3974-c942-42a9-97d2-eab0c82e6a0e.jpg?v=1696403276000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2ff6a2c2-3018-4804-8fcf-af7046ffb998.jpg?v=1696403236000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-38247e2c-fbf9-4279-8bc0-5d8f2c0c0005.jpg?v=1696403291000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1e040487-98fa-44e5-85e7-e7da98bf43a0.jpg?v=1696403353000" alt="" width="150" height="100">
-
-  </tr>
-   <tr>
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a6be90ab-542c-4491-8d1a-e01e8b914263.jpg?v=1696403413000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-940c6fb9-5b9f-4e88-a13f-a0248843aeb6.jpg?v=1696403545000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b21c7584-4d51-4320-ba49-52be5f80784c.jpg?v=1696403986000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-43c0010d-8315-4c90-a6ba-52373cd2a263.jpg?v=1696404672000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-24c679c1-e566-467f-8fa8-028328adcdb7.jpg?v=1696404798000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-625ba4b5-baa4-4cbe-8740-fcd8db27c167.jpg?v=1696404807000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-8aea6a10-f21f-46af-82c7-50d3c7dd1ea4.jpg?v=1696404828000" alt="" width="150" height="100">
-
-  </tr>
-   <tr>
-   
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-22b48ad7-cc70-4c13-ad2f-cc4049059ae5.jpg?v=1696404766000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9c10cd6f-88c5-4eca-b127-41430fb7e51d.jpg?v=1696404846000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-9834585c-11bf-44c4-a230-74b03336dcbf.jpg?v=1696404531000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe2741ad-2216-42a0-a3a2-c7174cdad6b9.jpg?v=1696404518000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe2741ad-2216-42a0-a3a2-c7174cdad6b9.jpg?v=1696404518000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-28743075-7c0c-4edd-9a88-566afaa972d1.jpg?v=1696404447000" alt="" width="150" height="100">
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-33ea29ac-616f-453e-99cc-3dcf65302b92.jpg?v=1696404413000" alt="" width="150" height="100">
-  </tr>
-   <tr>
-   <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-43c0010d-8315-4c90-a6ba-52373cd2a263.jpg?v=1696404672000" alt="" width="150" height="100">
-   <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-eecb53e8-27c8-4b2b-9d9a-2940ac59edba.jpg?v=1696405573000" alt="" width="150" height="100">
-
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0045cd76-4de9-4ada-9467-343f133ff7a5.jpg?v=1696405494000" alt="" width="150" height="100">
-
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7e65d510-bea8-49cd-8a1b-10b933d13bb0.jpg?v=1696405602000" alt="" width="150" height="100">
-
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7e65d510-bea8-49cd-8a1b-10b933d13bb0.jpg?v=1696405602000" alt="" width="150" height="100">
-
-<td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0a8c82b7-e313-47d7-a615-b39d0649850f.jpg?v=1696405603000" alt="" width="150" height="100">
- <td><img src="https://scontent.fmnl33-4.fna.fbcdn.net/v/t1.15752-9/384531107_814062557166726_6174014987154768819_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=i1DicYLszvkAX9KPU_X&_nc_ht=scontent.fmnl33-4.fna&oh=03_AdR1CzBjLUlfGLu29UijdDpise1ZnJkvOO0_rEfcv-BI_Q&oe=65475076" alt="" width="150" height="100">
-</td>
-</td>
-</td>
   </tr>
 </table>
     
