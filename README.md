@@ -40,13 +40,13 @@ Let's code and create magic! ✨✨</h3>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Digital art' src='https://img.shields.io/badge/Digital_art-100000?style=for-the-badge&logo=Digital art&logoColor=white&labelColor=black&color=black'/></a>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=black&color=black'/></a>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='content-writing' src='https://img.shields.io/badge/contentwriting-100000?style=for-the-badge&logo=content-writing&logoColor=white&labelColor=black&color=black'/></a>
+  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='digital marketing' src='https://img.shields.io/badge/digital_marketing-100000?style=for-the-badge&logo=digital marketing&logoColor=white&labelColor=black&color=black'/></a><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='copy writing' src='https://img.shields.io/badge/copy_writing-100000?style=for-the-badge&logo=copy writing&logoColor=white&labelColor=black&color=black'/></a>
 <H2>APIs </H2>
   <a href='https://rapidapi.com/' target="_blank"><img alt='rapidapi.com' src='https://img.shields.io/badge/rapidapi-100000?style=for-the-badge&logo=rapidapi.com&logoColor=white&labelColor=black&color=black'/></a><br>
   <H2>library  </H2>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
     <H2> I’m currently learning  </H2>
-    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=black'/></a>
-    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black&color=black'/></a>
+   Microsoft Project | microsoft  word  | Microsoft slide  | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
