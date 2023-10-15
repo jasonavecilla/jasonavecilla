@@ -51,7 +51,7 @@ Let's code and create magic! ✨✨</h3>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
   <br> <h2>certificate</h2>  
-  <p> still uploading the 600 certificate</p>  
+  <p> still uploading the 700 certificate</p>  
 <table>
   <tr>
 <td><img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ADVhk3DISpgAX_W_Sfw&_nc_ht=scontent.fmnl33-1.fna&oh=03_AdQdr89kRsoZz8A1AZccKUztLK7mTTNtKgpuVnJMga2QbA&oe=6544728F" alt="" width="150" height="100">
