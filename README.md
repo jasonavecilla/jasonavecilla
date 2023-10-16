@@ -46,7 +46,7 @@ Let's code and create magic! ✨✨</h3>
   <H2>library  </H2>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
     <H2> I’m currently learning  </H2>
-   Microsoft Project | microsoft  word  | Microsoft slide  | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing
+   Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
