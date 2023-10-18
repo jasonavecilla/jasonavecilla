@@ -1,5 +1,5 @@
 
-<a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">Resume</a><br>
+<a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">📄 Know about my experiences</a><br>
 👋 Hello, I'm [Jason Guerrero]!<br>
 👨‍💻 Full Stack Developer | IT support | Proud Kodego & KODA Alum | Collaboration Enthusiast in Chingu.io 💼<br>
 🌐 Passionate about Computer Science & Information Engineering 🎓🔬<br>
