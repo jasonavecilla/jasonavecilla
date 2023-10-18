@@ -1,7 +1,7 @@
 
 <a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">Resume</a><br>
 👋 Hello, I'm [Jason Guerrero]!<br>
-👨‍💻 Full Stack Developer | Proud Kodego & KODA Alum | Collaboration Enthusiast in Chingu.io 💼<br>
+👨‍💻 Full Stack Developer | IT support | Proud Kodego & KODA Alum | Collaboration Enthusiast in Chingu.io 💼<br>
 🌐 Passionate about Computer Science & Information Engineering 🎓🔬<br>
 📚 Currently refining my skills at Adamson University 🎯✏️<br>
 📚 Currently learning:<br>
