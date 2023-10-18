@@ -1,10 +1,19 @@
 
-<a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">Resume</a>
-<h3 align="center">Hi , I'm Jason Guerrero</h1> <h5 align="center"> Full Stack Developer | Proud Kodego & KODA Alum | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering | Currently refining my skills at Adamson University
-Hey there! 👋 As a Full Stack Developer, I take immense pride in my journey as a Kodego and KODA Alum, having honed my technical skills in collaboration with amazing individuals from Chingu. At present, I'm driven by a strong sense of curiosity and aspiration to excel in the fascinating realm of Computer Science and Information Engineering.
-Being a creative problem solver, I thrive on utilizing my expertise to develop seamless software solutions that cater to the needs of modern-day users. With a solid foundation in both front-end and back-end technologies,  🚀
-Feel free to reach out to me through my social media channels or drop me a message. I'm always eager to meet new individuals, discuss ideas, or explore opportunities that can push boundaries and elevate the digital landscape.
-Let's code and create magic! ✨✨</h3>
+<a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">Resume</a><br>
+👋 Hello, I'm [Jason Guerrero]!<br>
+👨‍💻 Full Stack Developer | Proud Kodego & KODA Alum | Collaboration Enthusiast in Chingu.io 💼<br>
+🌐 Passionate about Computer Science & Information Engineering 🎓🔬<br>
+📚 Currently refining my skills at Adamson University 🎯✏️<br>
+📚 Currently learning:<br>
+
+CCNA -2001-3001 🌐🌐<br>
+Juniper JNCIA-Junos 🌐🔐<br>
+Juniper JNCIS-ENT - JN0-351 🌐🛡️<br>
+Join me in a journey towards digital innovation and problem-solving! As a Full Stack Developer, I thrive on crafting exceptional applications that enhance user experiences. With a strong foundation in computer science and information engineering, I continuously seek collaborative opportunities to expand my knowledge in the field.
+Having been part of the esteemed Kodego & KODA programs, I have honed my skills in diverse technologies and programming languages, enabling me to seamlessly navigate through different development environments. My passion for building innovative solutions motivates me to actively contribute to Chingu.io, where I engage with like-minded professionals to enhance my collaboration skills.
+Currently, I'm devoted to refining my skillset at Adamson University, where I am immersed in an environment of cutting-edge knowledge and practical experiences. Alongside my academic pursuits, I embrace continuous learning, presently focusing on advancing my expertise in CCNA, Juniper JNCIA-Junos, and Juniper JNCIS-ENT certifications.
+If you share the same passion for technology, collaboration, and exploring new horizons, feel free to connect with me. Let us drive digital transformation and make an impact in the dynamic world of software development together! 🚀🌍
+
 <h2>language and framework</h2>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go_lang-100000?style=for-the-badge&logo=Go&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='rust' src='https://img.shields.io/badge/rust-100000?style=for-the-badge&logo=rust&logoColor=white&labelColor=black&color=black'/></a>
