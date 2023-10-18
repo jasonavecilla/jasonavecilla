@@ -31,21 +31,15 @@ Let's code and create magic! ✨✨</h3>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jest .js' src='https://img.shields.io/badge/Jest_.js-100000?style=for-the-badge&logo=Jest .js&logoColor=white&labelColor=black&color=black'/></a>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mocha' src='https://img.shields.io/badge/mocha-100000?style=for-the-badge&logo=mocha&logoColor=white&labelColor=black&color=black'/></a>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jasmine' src='https://img.shields.io/badge/jasmine-100000?style=for-the-badge&logo=jasmine&logoColor=white&labelColor=black&color=black'/></a>
-  <br> <h2> other Skill</h2>  
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Microsoft Project' src='https://img.shields.io/badge/Microsoft_Project-100000?style=for-the-badge&logo=Microsoft Project&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='microsoft  word' src='https://img.shields.io/badge/microsoft_ word-100000?style=for-the-badge&logo=microsoft  word&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Microsoft slide' src='https://img.shields.io/badge/Microsoft_office-100000?style=for-the-badge&logo=Microsoft slide&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Microsoft excel' src='https://img.shields.io/badge/Microsoft_excel-100000?style=for-the-badge&logo=Microsoft excel&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='microsoft  powerpoint' src='https://img.shields.io/badge/microsoft_ powerpoint-100000?style=for-the-badge&logo=microsoft  powerpoint&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Digital art' src='https://img.shields.io/badge/Digital_art-100000?style=for-the-badge&logo=Digital art&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='content-writing' src='https://img.shields.io/badge/contentwriting-100000?style=for-the-badge&logo=content-writing&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='digital marketing' src='https://img.shields.io/badge/digital_marketing-100000?style=for-the-badge&logo=digital marketing&logoColor=white&labelColor=black&color=black'/></a><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='copy writing' src='https://img.shields.io/badge/copy_writing-100000?style=for-the-badge&logo=copy writing&logoColor=white&labelColor=black&color=black'/></a>
+  <br> 
 <H2>APIs </H2>
   <a href='https://rapidapi.com/' target="_blank"><img alt='rapidapi.com' src='https://img.shields.io/badge/rapidapi-100000?style=for-the-badge&logo=rapidapi.com&logoColor=white&labelColor=black&color=black'/></a><br>
   <H2>library  </H2>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
-    <H2> I’m currently learning  </H2>
+      <H2> i'm currently learning  </H2>
+      CCNA -2001-3001 | Juniper JNCIA-Junos  |
+Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
+    <H2> other skills  </H2>
    Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing | graphic design
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
