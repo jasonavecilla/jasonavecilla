@@ -30,6 +30,7 @@ If you share the same passion for technology, collaboration, and exploring new h
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe photoshop' src='https://img.shields.io/badge/adobe_photoshop-100000?style=for-the-badge&logo=adobe photoshop&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe premiere PRO' src='https://img.shields.io/badge/adobe_premiere pro-100000?style=for-the-badge&logo=adobe premiere PRO&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe xd' src='https://img.shields.io/badge/adobe_xd-100000?style=for-the-badge&logo=adobe xd&logoColor=white&labelColor=black&color=black'/></a>
+<img alt='Vue.JS Laravel' src='https://img.shields.io/badge/Vue.JS Laravel-red.svg?style=for-the-badge&logo=Vue.JS&logoColor' />
 
   <br>  <h2> web content management system</h2>  
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='wordpress' src='https://img.shields.io/badge/wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=black'/></a>
@@ -48,11 +49,14 @@ If you share the same passion for technology, collaboration, and exploring new h
       <H2> i'm currently learning  </H2>
       CCNA -2001-3001 | Juniper JNCIA-Junos  |
 Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
+<img alt='Vue.JS Laravel' src='https://img.shields.io/badge/Vue.JS Laravel-red.svg?style=for-the-badge&logo=Vue.JS&logoColor' />
     <H2> other skills  </H2>
    Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing | graphic design
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
+     <h2> i'm currently enrolled at bootcamp for</h2> 
+     data science | ui/ux design
   <br> <h2>certificate</h2>  
   <p> still uploading the 700 certificate</p>  
 <table>
