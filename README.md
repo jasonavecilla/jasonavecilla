@@ -56,7 +56,7 @@ Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' targe
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
-     <h2> i'm currently enrolled at bootcamp for</h2> 
+     <h2>i'm currently enrolled in bootcamp for</h2> 
      data science | ui/ux design
   <br> <h2>certificate</h2>  
   <p> still uploading the 800 certificate</p>  
