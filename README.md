@@ -58,7 +58,7 @@ Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' targe
      <h2> i'm currently enrolled at bootcamp for</h2> 
      data science | ui/ux design
   <br> <h2>certificate</h2>  
-  <p> still uploading the 700 certificate</p>  
+  <p> still uploading the 800 certificate</p>  
 <table>
   <tr>
 <td><img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ADVhk3DISpgAX_W_Sfw&_nc_ht=scontent.fmnl33-1.fna&oh=03_AdQdr89kRsoZz8A1AZccKUztLK7mTTNtKgpuVnJMga2QbA&oe=6544728F" alt="" width="150" height="100">
