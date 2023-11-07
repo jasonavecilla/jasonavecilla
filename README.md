@@ -56,6 +56,15 @@ Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' targe
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
+       <br> <h2>Figma Toolkit</h2>  
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Bootstrap 5 UI Kit' src='https://img.shields.io/badge/Bootstrap_5 UI Kit-100000?style=for-the-badge&logo=Bootstrap 5 UI Kit&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' SAAS Template' src='https://img.shields.io/badge/_SAAS Template-100000?style=for-the-badge&logo= SAAS Template&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Free Icons Library' src='https://img.shields.io/badge/Free_Icons Library-100000?style=for-the-badge&logo=Free Icons Library&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Iconic Pack' src='https://img.shields.io/badge/Iconic_Pack-100000?style=for-the-badge&logo=Iconic Pack&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='illustrations' src='https://img.shields.io/badge/illustrations-100000?style=for-the-badge&logo=illustrations&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='E-Commerce UI Kit' src='https://img.shields.io/badge/E-Commerce_UI Kit-100000?style=for-the-badge&logo=E-Commerce UI Kit&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Gradient Backgrounds (Free)' src='https://img.shields.io/badge/Gradient_Backgrounds (Free)-100000?style=for-the-badge&logo=Gradient Backgrounds (Free)&logoColor=white&labelColor=black&color=black'/></a>
+       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Social Media Templates' src='https://img.shields.io/badge/Social_Media Templates-100000?style=for-the-badge&logo=Social Media Templates&logoColor=white&labelColor=black&color=black'/></a>
   <br> <h2>certificate</h2>  
   <p> still uploading  1100 completion | technical certificate</p>  
 <table>
