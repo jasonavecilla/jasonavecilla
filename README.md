@@ -5,7 +5,7 @@
 🌐 Passionate about Computer Science & Information Engineering 🎓🔬<br>
 📚 Currently refining my skills at Adamson University 🎯✏️<br>
 📚 Currently learning:<br>
-
+CompTIA Security(SY0-701)
 CCNA -2001-3001 🌐🌐<br>
 Juniper JNCIA-Junos 🌐🔐<br>
 Juniper JNCIS-ENT - JN0-351 🌐🛡️<br>
