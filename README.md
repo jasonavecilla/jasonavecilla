@@ -50,8 +50,8 @@ If you share the same passion for technology, collaboration, and exploring new h
       <H2> i'm currently learning  </H2>
       CCNA -2001-3001 | Juniper JNCIA-Junos  |
 Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
-
-    <H2> other skills  </H2>
+ <h2>other skills</h2>  
+    
    Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing | graphic design
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
