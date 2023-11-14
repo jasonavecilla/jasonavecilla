@@ -1,19 +1,31 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> 
 
+Full Stack Developer | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
+
+🎓 Proud Kodego & KODA Alum
+
+🌐 Currently refining my skills at Adamson University
+
+🚀 Active member of the prestigious Chingu.io community
+
+💼 Expertise in content-writing, digital marketing, copywriting, and graphic design <br>
 <a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">📄 Know about my experiences</a><br>
-👋 Hello, I'm [Jason Guerrero]!<br>
-👨‍💻 Full Stack Developer | IT support | ui designer |Proud Kodego & KODA Alum | Collaboration Enthusiast in Chingu.io 💼<br>
-🌐 Passionate about Computer Science & Information Engineering 🎓🔬<br>
-📚 Currently refining my skills at Adamson University 🎯✏️<br>
-📚 Currently learning:<br>
-CompTIA Security(SY0-701)
-CCNA -2001-3001 🌐🌐<br>
-Juniper JNCIA-Junos 🌐🔐<br>
-Juniper JNCIS-ENT - JN0-351 🌐🛡️<br>
-Join me in a journey towards digital innovation and problem-solving! As a Full Stack Developer, I thrive on crafting exceptional applications that enhance user experiences. With a strong foundation in computer science and information engineering, I continuously seek collaborative opportunities to expand my knowledge in the field.
-Having been part of the esteemed Kodego & KODA programs, I have honed my skills in diverse technologies and programming languages, enabling me to seamlessly navigate through different development environments. My passion for building innovative solutions motivates me to actively contribute to Chingu.io, where I engage with like-minded professionals to enhance my collaboration skills.
-Currently, I'm devoted to refining my skillset at Adamson University, where I am immersed in an environment of cutting-edge knowledge and practical experiences. Alongside my academic pursuits, I embrace continuous learning, presently focusing on advancing my expertise in CCNA, Juniper JNCIA-Junos, and Juniper JNCIS-ENT certifications.
-If you share the same passion for technology, collaboration, and exploring new horizons, feel free to connect with me. Let us drive digital transformation and make an impact in the dynamic world of software development together! 🚀🌍
+Welcome to my digital realm, where innovation meets elegance! 🌟 As a dedicated Full Stack Developer, I craft exceptional digital experiences that blend technology, aesthetics, and usability. 🖥️✨
 
+With a distinguished pedigree as a Kodego and KODA alumnus, I've honed my skills to the pinnacle of technological craftsmanship. This solid foundation in coding enables me to architect efficient and cutting-edge solutions, empowering businesses to flourish and thrive. 🏆
+
+Passionate about the ever-evolving realms of Computer Science and Information Engineering, I relentlessly pursue knowledge and stay ahead of the latest industry trends. 🚀 Seeking to unlock new frontiers of digital innovation, I am currently undertaking advanced studies at the esteemed Adamson University. 📘🧪
+
+Thriving in collaborative environments, I cultivate synergistic relationships with like-minded professionals through Chingu.io. Together, we embrace challenges, inspire creativity, and forge remarkable projects that resonate globally. ✨
+
+Beyond my technical prowess, I possess versatile skills in content-writing, digital marketing, copywriting, and graphic design. 💡 This multifaceted expertise empowers me to create enchanting narratives, captivate audiences, and elevate brands to the pinnacle of digital sophistication. 📝💎
+
+Embark on a voyage of elegance and innovation with me. Let's collaborate to create extraordinary digital experiences that leave an indelible mark on our ever-evolving world. ✨💼
+
+Contact me now and let's shape the future together! 💌🌍
+<br>
+- 👯 I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
+- 🔭 I’m currently working on [Secret Recipe](https://main--secreterecipes.netlify.app/)
 <h2>language and framework</h2>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='less' src='https://img.shields.io/badge/less-100000?style=for-the-badge&logo=less&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go_lang-100000?style=for-the-badge&logo=Go&logoColor=white&labelColor=black&color=black'/></a>
@@ -49,11 +61,10 @@ If you share the same passion for technology, collaboration, and exploring new h
   <H2>library  </H2>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
       <H2> i'm currently learning  </H2>
-      CCNA -2001-3001 | Juniper JNCIA-Junos  |
-Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
+       | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
  <h2>other skills</h2>  
     
-   Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint Digital art  | canva   | content-writing  | digital marketing  |copy writing | graphic design
+   Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint  | canva   | content-writing  | digital marketing  |copy writing | graphic design
      <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
@@ -69,5 +80,5 @@ Juniper JNCIS-ENT - JN0-351  | <a href='https://github.com/shivamkapasia0' targe
   </tr>
 </table>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonavecilla" alt="jasonavecilla" /></a>  <p align="left"> </p></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
+
 
