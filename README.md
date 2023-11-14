@@ -72,13 +72,9 @@ Contact me now and let's shape the future together! 💌🌍
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=white&labelColor=black&color=black'/></a>
       <H2> i'm currently learning  </H2>
        | <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='fLUTTER' src='https://img.shields.io/badge/fLUTTER-100000?style=for-the-badge&logo=fLUTTER&logoColor=white&labelColor=black&color=black'/></a>
- <h2>other skills</h2>  
-    
-   Microsoft Project | microsoft  word    | Microsoft excel  | microsoft  powerpoint  | canva   | content-writing  | digital marketing  |copy writing | graphic design
-     <br> <h2>CSS component library</h2>  
+ <br> <h2>CSS component library</h2>  
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DaisyUI' src='https://img.shields.io/badge/DaisyUI-100000?style=for-the-badge&logo=DaisyUI&logoColor=white&labelColor=black&color=black'/></a>
      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='react-bootstrap' src='https://img.shields.io/badge/react-bootstrap-100000?style=for-the-badge&logo=react-bootstrap&logoColor=white&labelColor=black&color=black'/></a>
-   
   <br> <h2>certificate</h2>  
   <p> still uploading  1100 completion | technical certificate</p>  
 <table>
