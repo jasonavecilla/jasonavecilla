@@ -10,6 +10,15 @@ Full Stack Developer | Collaboration Enthusiast | Passionate about Computer Scie
 
 💼 Expertise in content-writing, digital marketing, copywriting, and graphic design <br>
 <a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">📄 Know about my experiences</a><br>
+<a href="https://fb.com/jason guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jason guerrero" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonavecilla&show_icons=true&locale=en&layout=compact" alt="jasonavecilla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonavecilla&show_icons=true&locale=en" alt="jasonavecilla" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonavecilla&" alt="jasonavecilla" /></p>
+
 Welcome to my digital realm, where innovation meets elegance! 🌟 As a dedicated Full Stack Developer, I craft exceptional digital experiences that blend technology, aesthetics, and usability. 🖥️✨
 
 With a distinguished pedigree as a Kodego and KODA alumnus, I've honed my skills to the pinnacle of technological craftsmanship. This solid foundation in coding enables me to architect efficient and cutting-edge solutions, empowering businesses to flourish and thrive. 🏆
