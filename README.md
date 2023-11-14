@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> 
 
-Full Stack Developer | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
+Full Stack Developer | ui/ux |  Multimedia Marketing | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
 
 🎓 Proud Kodego & KODA Alum
 
