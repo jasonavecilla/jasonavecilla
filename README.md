@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> 
 
-Full Stack Developer | ui/ux |  Multimedia Marketing | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
+Full Stack Developer | ui/ux |  Multimedia Marketing | IT Support Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
 
 🎓 Proud Kodego & KODA Alum
 
@@ -44,7 +44,7 @@ Contact me now and let's shape the future together! 💌🌍
 <br>
 - 👯 I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
 - 🔭 I’m currently working on [Secret Recipe](https://main--secreterecipes.netlify.app/)
-- - 🔭 latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
+-  🔭 latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
 <h2>language and framework</h2>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='less' src='https://img.shields.io/badge/less-100000?style=for-the-badge&logo=less&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go_lang-100000?style=for-the-badge&logo=Go&logoColor=white&labelColor=black&color=black'/></a>
