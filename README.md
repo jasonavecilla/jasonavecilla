@@ -9,7 +9,7 @@ Full Stack Developer | ui/ux |  Multimedia Marketing | IT Support | Collaboratio
 🚀 Active member of the prestigious Chingu.io community
 
 💼 Expertise in content-writing, digital marketing, copywriting, and graphic design <br>
-<a href="https://www.canva.com/design/DAFrhpRSVNA/MTbYcqU46gb8NQUQImE0oQ/view?">📄 Know about my experiences</a><br>
+
 <a href="https://fb.com/jason guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jason guerrero" height="30" width="40" /></a>
 </p>
 
