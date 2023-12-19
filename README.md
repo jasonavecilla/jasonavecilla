@@ -28,14 +28,18 @@
   ---
   
 ### :man_technologist: About Me :
-
-Full Stack Developer | ui/ux |  Multimedia Marketing | IT Support | Collaboration Enthusiast | Passionate about Computer Science & Information Engineering
-
+Contact me now and let's shape the future together! 💌🌍
 🎓 Proud Kodego & KODA Alum
-
 🌐 Currently refining my skills at Adamson University
-
 🚀 Active member of the prestigious Chingu.io community
+- :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
+- :seedling: Leading agile team to complete various projects.
+- :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
+- :zap:  I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
+- :zap:  I’m currently working on [Secret Recipe](https://main--secreterecipes.netlify.app/)
+- :zap:  latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
+
+
 
 💼 Expertise in content-writing, digital marketing, copywriting, and graphic design  <br>
 Welcome to my digital realm, where innovation meets elegance! 🌟 As a dedicated Full Stack Developer, I craft exceptional digital experiences that blend technology, aesthetics, and usability. 🖥️✨
@@ -49,15 +53,6 @@ Beyond my technical prowess, I possess versatile skills in content-writing, digi
 
 Embark on a voyage of elegance and innovation with me. Let's collaborate to create extraordinary digital experiences that leave an indelible mark on our ever-evolving world. ✨💼
 
-Contact me now and let's shape the future together! 💌🌍
-- :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
-
-- :seedling: Leading agile team to complete various projects.
-
-- :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
-- :zap:  I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
-- :zap:  I’m currently working on [Secret Recipe](https://main--secreterecipes.netlify.app/)
-- :zap:  latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
 
 
   
