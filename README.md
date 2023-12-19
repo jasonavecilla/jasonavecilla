@@ -78,4 +78,11 @@ Embark on a voyage of elegance and innovation with me. Let's collaborate to crea
 </div>
 
 ---
-
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonavecilla)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonavecilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vinhqua/vinhqua/output/github-contribution-grid-snake.svg" />
+</picture>
