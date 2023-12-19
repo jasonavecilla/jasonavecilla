@@ -50,7 +50,7 @@ Beyond my technical prowess, I possess versatile skills in content-writing, digi
 Embark on a voyage of elegance and innovation with me. Let's collaborate to create extraordinary digital experiences that leave an indelible mark on our ever-evolving world. ✨💼
 
 Contact me now and let's shape the future together! 💌🌍
-- :telescope: I’m working as an English Teacher and Software Engineer, contributing to frontend and backend for building web applications.
+- :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
 
 - :seedling: Leading agile team to complete various projects.
 
