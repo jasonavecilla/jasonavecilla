@@ -28,10 +28,10 @@
   ---
   
 ### :man_technologist: About Me :
-Contact me now and let's shape the future together! 💌🌍
-🎓 Proud Kodego & KODA Alum
-🌐 Currently refining my skills at Adamson University
-🚀 Active member of the prestigious Chingu.io community
+Contact me now and let's shape the future together! 💌🌍 <br>
+🎓 Proud Kodego & KODA Alum <br>
+🌐 Currently refining my skills at Adamson University <br>
+🚀 Active member of the prestigious Chingu.io community <br>
 - :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
 - :seedling: Leading agile team to complete various projects.
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
