@@ -37,7 +37,7 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 - :seedling: Leading agile team to complete various projects.
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
 - :zap:  I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
-- :zap:  I’m currently working on [Secret Recipe](https://main--secreterecipes.netlify.app/)
+- :zap:  I’m currently working on Daily Task App
 - :zap:  latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
 
 
