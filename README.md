@@ -28,6 +28,7 @@
   ---
   
 ### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines .<br>
 Contact me now and let's shape the future together! 💌🌍 <br>
 🎓 Proud Kodego & KODA Alum <br>
 🌐 Currently refining my skills at Adamson University <br>
