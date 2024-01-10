@@ -38,7 +38,7 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
 - :zap:  I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
 - :zap:  I’m currently working on Daily Task App
-- :zap:  latest project [The Source](https://llanes.wd49p.com/02-mp/pages/)
+- :zap:  latest project Secret Recipe app
 
 
 
