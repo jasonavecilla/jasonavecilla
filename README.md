@@ -28,7 +28,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines .<br>
 Contact me now and let's shape the future together! 💌🌍 <br>
 🎓 Proud Kodego & Chingu.io Alum <br>
-🌐 Currently refining my skills at Adamson University <br>
+🌐 Currently refining my skills at CIIT<br>
 🚀 Active member of the prestigious Chingu.io community <br>
 - :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
 - :seedling: Leading agile team to complete various projects.
