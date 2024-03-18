@@ -27,15 +27,12 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines .<br>
 Contact me now and let's shape the future together! 💌🌍 <br>
-🎓 Proud Kodego & KODA Alum <br>
+🎓 Proud Kodego & Chingu.io Alum <br>
 🌐 Currently refining my skills at Adamson University <br>
 🚀 Active member of the prestigious Chingu.io community <br>
 - :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
 - :seedling: Leading agile team to complete various projects.
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
-- :zap:  I’m looking to collaborate on [Chingu.io](https://main--secreterecipes.netlify.app/)
-- :zap:  I’m currently working on Daily Task App
-- :zap:  latest project Secret Recipe app
 
 
 
