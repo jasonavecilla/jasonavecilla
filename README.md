@@ -79,10 +79,8 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 <img alt='jQuery' src='https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor' />
 <img alt='flask' src='https://img.shields.io/badge/flask-blue.svg?style=for-the-badge&logo=flask&logoColor' />
 <img alt='Figma' src='https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=Figma&logoColor' />
-<img alt='vue.js' src='https://img.shields.io/badge/vue.js-blue.svg?style=for-the-badge&logo=vue.js&logoColor' />
-<img alt='svelte' src='https://img.shields.io/badge/svelte-blue.svg?style=for-the-badge&logo=svelte&logoColor' />
-<img alt='angular' src='https://img.shields.io/badge/angular-blue.svg?style=for-the-badge&logo=angular&logoColor' />
-
+<img alt='SQLite' src='https://img.shields.io/badge/SQLite-blue.svg?style=for-the-badge&logo=SQLite&logoColor' />
+<img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-blue.svg?style=for-the-badge&logo=PostgreSQL&logoColor' />
 
   <br>
 
