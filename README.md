@@ -44,7 +44,7 @@ Contact me now and let's shape the future together! 💌🌍 <br>
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench:  experienced Languages and Tools :
 <div>
 
 
@@ -72,6 +72,17 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 <img alt='next js' src='https://img.shields.io/badge/next js-blue.svg?style=for-the-badge&logo=next js&logoColor' />
 <img alt='tailwind' src='https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor' />
 <img alt='Command Line Interface' src='https://img.shields.io/badge/Command Line Interface-blue.svg?style=for-the-badge&logo=Command Line Interface&logoColor' />
+<img alt='django' src='https://img.shields.io/badge/django-blue.svg?style=for-the-badge&logo=django&logoColor' />
+<img alt='bulma' src='https://img.shields.io/badge/bulma-blue.svg?style=for-the-badge&logo=bulma&logoColor' />
+<img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-blue.svg?style=for-the-badge&logo=Bootstrap&logoColor' />
+<img alt='jQuery' src='https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor' />
+<img alt='flask' src='https://img.shields.io/badge/flask-blue.svg?style=for-the-badge&logo=flask&logoColor' />
+<img alt='Figma' src='https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=Figma&logoColor' />
+
+### :hammer_and_wrench: knowledgeable Languages and Tools :
+<img alt='vue.js' src='https://img.shields.io/badge/vue.js-blue.svg?style=for-the-badge&logo=vue.js&logoColor' />
+<img alt='svelte' src='https://img.shields.io/badge/svelte-blue.svg?style=for-the-badge&logo=svelte&logoColor' />
+<img alt='angular' src='https://img.shields.io/badge/angular-blue.svg?style=for-the-badge&logo=angular&logoColor' />
   <br>
 
   ### :fire: My Stats :
