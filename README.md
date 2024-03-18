@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=jasonavecilla&label=Profile%20views&color=0e75b6&style=flat" alt="jasonavecilla" /> <br>
-  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/382244389_1345456619725329_5611168585366587509_n.jpg?stp=dst-jpg_s370x247&_nc_cat=102&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFA8mkvVu7r5kQwE8Wk-6MNIU1tC_v7x2UhTW0L-_vHZQnWD-MJpZSewDMr-dDuBOKT5gsjfXvsaV2yRJzSTkmg&_nc_ohc=vDWiWt2fCl4AX9mvGdI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQBmCcGnyyvpHN7JhSetqo9hpZFWn4DdQUcth_HCRo8xA&oe=65C5A58F" alt="" width="150" height="100">
-  <img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/371461868_2271105676415984_270992046111724909_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGfvlY5S4M_1IfV3m1-k0SnL1Nfb9g6eXgvU19v2Dp5eB7dLeWfBh_s2qxrcvr7OOIz5_NyLihLkJpVGdnOlLcZ&_nc_ohc=yIpOqzfc7iEAX-gBYLP&_nc_ht=scontent.fmnl33-3.fna&oh=03_AdRDlON5MHvhXhTh85HkMq4D3ytpX1iFoZXBQd1_uin8kQ&oe=65C580E9" width="150" height="100">
-  
+
   <h1>
   Let's connect
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="50" height="50" />
