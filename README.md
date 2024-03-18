@@ -49,6 +49,7 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 
 
   <br>
+  <img alt='axios' src='https://img.shields.io/badge/axios-blue.svg?style=for-the-badge&logo=axios&logoColor' />
 <img alt='HTML' src='https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML&logoColor' />
 <img alt='CSS' src='https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=CSS&logoColor' />
 <img alt='Bootstrap ' src='https://img.shields.io/badge/Bootstrap -blue.svg?style=for-the-badge&logo=Bootstrap &logoColor' />
