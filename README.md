@@ -81,7 +81,7 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 <img alt='Figma' src='https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=Figma&logoColor' />
 <img alt='SQLite' src='https://img.shields.io/badge/SQLite-blue.svg?style=for-the-badge&logo=SQLite&logoColor' />
 <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-blue.svg?style=for-the-badge&logo=PostgreSQL&logoColor' />
-
+<img alt='Sequelize ORM' src='https://img.shields.io/badge/Sequelize ORM-blue.svg?style=for-the-badge&logo=Sequelize ORM&logoColor' />
   <br>
 
   ### :fire: My Stats :
