@@ -48,39 +48,33 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 
 
   <br>
-  <img alt='axios' src='https://img.shields.io/badge/axios-blue.svg?style=for-the-badge&logo=axios&logoColor' />
-<img alt='HTML' src='https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML&logoColor' />
-<img alt='CSS' src='https://img.shields.io/badge/CSS-blue.svg?style=for-the-badge&logo=CSS&logoColor' />
-<img alt='Bootstrap ' src='https://img.shields.io/badge/Bootstrap -blue.svg?style=for-the-badge&logo=Bootstrap &logoColor' />
-<img alt='Github' src='https://img.shields.io/badge/Github-blue.svg?style=for-the-badge&logo=Github&logoColor' />
-<img alt='Git' src='https://img.shields.io/badge/Git-blue.svg?style=for-the-badge&logo=Git&logoColor' />
-<img alt='Node.js' src='https://img.shields.io/badge/Node.js-blue.svg?style=for-the-badge&logo=Node.js&logoColor' />
-<img alt='JavaScript ' src='https://img.shields.io/badge/JavaScript -blue.svg?style=for-the-badge&logo=JavaScript &logoColor' />
-<img alt='React.js' src='https://img.shields.io/badge/React.js-blue.svg?style=for-the-badge&logo=React.js&logoColor' />
-<img alt='Laragon ' src='https://img.shields.io/badge/Laragon -blue.svg?style=for-the-badge&logo=Laragon &logoColor' />
-<img alt='XAMMP ' src='https://img.shields.io/badge/XAMMP -blue.svg?style=for-the-badge&logo=XAMMP &logoColor' />
-<img alt='PHP ' src='https://img.shields.io/badge/PHP -blue.svg?style=for-the-badge&logo=PHP &logoColor' />
-<img alt='Laravel ' src='https://img.shields.io/badge/Laravel -blue.svg?style=for-the-badge&logo=Laravel &logoColor' />
-<img alt='API ' src='https://img.shields.io/badge/API -blue.svg?style=for-the-badge&logo=API &logoColor' />
-<img alt='Web Server' src='https://img.shields.io/badge/Web Server-blue.svg?style=for-the-badge&logo=Web Server&logoColor' />
-<img alt='Web Security' src='https://img.shields.io/badge/Web Security-blue.svg?style=for-the-badge&logo=Web Security&logoColor' />
-<img alt='Cloud Computing' src='https://img.shields.io/badge/Cloud Computing-blue.svg?style=for-the-badge&logo=Cloud Computing&logoColor' />
-<img alt='node js' src='https://img.shields.io/badge/node js-blue.svg?style=for-the-badge&logo=node js&logoColor' />
-<img alt='Mysql' src='https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor' />
-<img alt='Express.js' src='https://img.shields.io/badge/Express.js-blue.svg?style=for-the-badge&logo=Express.js&logoColor' />
-<img alt='Codeigniter' src='https://img.shields.io/badge/Codeigniter-blue.svg?style=for-the-badge&logo=Codeigniter&logoColor' />
-<img alt='next js' src='https://img.shields.io/badge/next js-blue.svg?style=for-the-badge&logo=next js&logoColor' />
-<img alt='tailwind' src='https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor' />
-<img alt='Command Line Interface' src='https://img.shields.io/badge/Command Line Interface-blue.svg?style=for-the-badge&logo=Command Line Interface&logoColor' />
-<img alt='django' src='https://img.shields.io/badge/django-blue.svg?style=for-the-badge&logo=django&logoColor' />
-<img alt='bulma' src='https://img.shields.io/badge/bulma-blue.svg?style=for-the-badge&logo=bulma&logoColor' />
-<img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-blue.svg?style=for-the-badge&logo=Bootstrap&logoColor' />
-<img alt='jQuery' src='https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor' />
-<img alt='flask' src='https://img.shields.io/badge/flask-blue.svg?style=for-the-badge&logo=flask&logoColor' />
-<img alt='Figma' src='https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=Figma&logoColor' />
-<img alt='SQLite' src='https://img.shields.io/badge/SQLite-blue.svg?style=for-the-badge&logo=SQLite&logoColor' />
-<img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-blue.svg?style=for-the-badge&logo=PostgreSQL&logoColor' />
-<img alt='Sequelize ORM' src='https://img.shields.io/badge/Sequelize ORM-blue.svg?style=for-the-badge&logo=Sequelize ORM&logoColor' />
+<img alt='html' src='https://img.shields.io/badge/html-inactive.svg?style=for-the-badge&logo=html5&logoColor' />
+<img alt='Axios' src='https://img.shields.io/badge/Axios-inactive.svg?style=for-the-badge&logo=Axios&logoColor' />
+<img alt='CSS' src='https://img.shields.io/badge/CSS-inactive.svg?style=for-the-badge&logo=CSS&logoColor' />
+<img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-inactive.svg?style=for-the-badge&logo=Bootstrap&logoColor' />
+<img alt='Github' src='https://img.shields.io/badge/Github-inactive.svg?style=for-the-badge&logo=Github&logoColor' />
+<img alt='Git' src='https://img.shields.io/badge/Git-inactive.svg?style=for-the-badge&logo=Git&logoColor' />
+<img alt='Node.js' src='https://img.shields.io/badge/Node.js-inactive.svg?style=for-the-badge&logo=Node.js&logoColor' />
+<img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-inactive.svg?style=for-the-badge&logo=JavaScript&logoColor' />
+<img alt='React.js' src='https://img.shields.io/badge/React.js-inactive.svg?style=for-the-badge&logo=React&logoColor' />
+<img alt='Laragon' src='https://img.shields.io/badge/Laragon-inactive.svg?style=for-the-badge&logo=Laragon&logoColor' />
+<img alt='XAMPP' src='https://img.shields.io/badge/XAMPP-inactive.svg?style=for-the-badge&logo=XAMPP&logoColor' />
+<img alt='PHP' src='https://img.shields.io/badge/PHP-inactive.svg?style=for-the-badge&logo=PHP&logoColor' />
+<img alt='Laravel' src='https://img.shields.io/badge/Laravel-inactive.svg?style=for-the-badge&logo=Laravel&logoColor' />
+<img alt='node.js' src='https://img.shields.io/badge/node.js-inactive.svg?style=for-the-badge&logo=node.js&logoColor' />
+<img alt='Mysql' src='https://img.shields.io/badge/Mysql-inactive.svg?style=for-the-badge&logo=Mysql&logoColor' />
+<img alt='Express' src='https://img.shields.io/badge/Express-inactive.svg?style=for-the-badge&logo=Express&logoColor' />
+<img alt='Codeigniter' src='https://img.shields.io/badge/Codeigniter-inactive.svg?style=for-the-badge&logo=Codeigniter&logoColor' />
+<img alt='next js' src='https://img.shields.io/badge/next js-inactive.svg?style=for-the-badge&logo=next.js&logoColor' />
+<img alt='tailwind' src='https://img.shields.io/badge/tailwind-inactive.svg?style=for-the-badge&logo=tailwindcss&logoColor' />
+<img alt='django' src='https://img.shields.io/badge/django-inactive.svg?style=for-the-badge&logo=django&logoColor' />
+<img alt='bulma' src='https://img.shields.io/badge/bulma-inactive.svg?style=for-the-badge&logo=bulma&logoColor' />
+<img alt='jQuery' src='https://img.shields.io/badge/jQuery-inactive.svg?style=for-the-badge&logo=jQuery&logoColor' />
+<img alt='flask' src='https://img.shields.io/badge/flask-inactive.svg?style=for-the-badge&logo=flask&logoColor' />
+<img alt='Figma' src='https://img.shields.io/badge/Figma-inactive.svg?style=for-the-badge&logo=Figma&logoColor' />
+<img alt='SQLite' src='https://img.shields.io/badge/SQLite-inactive.svg?style=for-the-badge&logo=SQLite&logoColor' />
+<img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-inactive.svg?style=for-the-badge&logo=PostgreSQL&logoColor' />
+<img alt='sequelize - npm' src='https://img.shields.io/badge/sequelize - npm-inactive.svg?style=for-the-badge&logo=sequelize - npm&logoColor' />
   <br>
 
   ### :fire: My Stats :
