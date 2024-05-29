@@ -2,15 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/Jasonavecilla/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  
   <a target="_blank" href="avecillajason77@gmail.com">
     <img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a target="_blank" href="">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
-  </a>
+
 </div>
 
   <h1>
