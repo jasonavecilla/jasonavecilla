@@ -43,36 +43,8 @@ Contact me now and let's shape the future together! 💌🌍 <br>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,laravel,tailwind,mysql,bootstrap,php,next,jquery,express,sequelize,postgresql,sqlite,flask,git,github,figma,django,ruby,rails,python,typescript,vscode,sass,less,npm,vite)](https://skillicons.dev)
 
-  <br>
-<img alt='html' src='https://img.shields.io/badge/html-inactive.svg?style=for-the-badge&logo=html5&logoColor' />
-<img alt='Axios' src='https://img.shields.io/badge/Axios-inactive.svg?style=for-the-badge&logo=Axios&logoColor' />
-<img alt='CSS' src='https://img.shields.io/badge/CSS-inactive.svg?style=for-the-badge&logo=CSS&logoColor' />
-<img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-inactive.svg?style=for-the-badge&logo=Bootstrap&logoColor' />
-<img alt='Github' src='https://img.shields.io/badge/Github-inactive.svg?style=for-the-badge&logo=Github&logoColor' />
-<img alt='Git' src='https://img.shields.io/badge/Git-inactive.svg?style=for-the-badge&logo=Git&logoColor' />
-<img alt='Node.js' src='https://img.shields.io/badge/Node.js-inactive.svg?style=for-the-badge&logo=Node.js&logoColor' />
-<img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-inactive.svg?style=for-the-badge&logo=JavaScript&logoColor' />
-<img alt='React.js' src='https://img.shields.io/badge/React.js-inactive.svg?style=for-the-badge&logo=React&logoColor' />
-<img alt='Laragon' src='https://img.shields.io/badge/Laragon-inactive.svg?style=for-the-badge&logo=Laragon&logoColor' />
-<img alt='XAMPP' src='https://img.shields.io/badge/XAMPP-inactive.svg?style=for-the-badge&logo=XAMPP&logoColor' />
-<img alt='PHP' src='https://img.shields.io/badge/PHP-inactive.svg?style=for-the-badge&logo=PHP&logoColor' />
-<img alt='Laravel' src='https://img.shields.io/badge/Laravel-inactive.svg?style=for-the-badge&logo=Laravel&logoColor' />
-<img alt='node.js' src='https://img.shields.io/badge/node.js-inactive.svg?style=for-the-badge&logo=node.js&logoColor' />
-<img alt='Mysql' src='https://img.shields.io/badge/Mysql-inactive.svg?style=for-the-badge&logo=Mysql&logoColor' />
-<img alt='Express' src='https://img.shields.io/badge/Express-inactive.svg?style=for-the-badge&logo=Express&logoColor' />
-<img alt='Codeigniter' src='https://img.shields.io/badge/Codeigniter-inactive.svg?style=for-the-badge&logo=Codeigniter&logoColor' />
-<img alt='next js' src='https://img.shields.io/badge/next js-inactive.svg?style=for-the-badge&logo=next.js&logoColor' />
-<img alt='tailwind' src='https://img.shields.io/badge/tailwind-inactive.svg?style=for-the-badge&logo=tailwindcss&logoColor' />
-<img alt='django' src='https://img.shields.io/badge/django-inactive.svg?style=for-the-badge&logo=django&logoColor' />
-<img alt='bulma' src='https://img.shields.io/badge/bulma-inactive.svg?style=for-the-badge&logo=bulma&logoColor' />
-<img alt='jQuery' src='https://img.shields.io/badge/jQuery-inactive.svg?style=for-the-badge&logo=jQuery&logoColor' />
-<img alt='flask' src='https://img.shields.io/badge/flask-inactive.svg?style=for-the-badge&logo=flask&logoColor' />
-<img alt='Figma' src='https://img.shields.io/badge/Figma-inactive.svg?style=for-the-badge&logo=Figma&logoColor' />
-<img alt='SQLite' src='https://img.shields.io/badge/SQLite-inactive.svg?style=for-the-badge&logo=SQLite&logoColor' />
-<img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-inactive.svg?style=for-the-badge&logo=PostgreSQL&logoColor' />
-<img alt='sequelize - npm' src='https://img.shields.io/badge/sequelize - npm-inactive.svg?style=for-the-badge&logo=sequelize - npm&logoColor' />
-  <br>
 
   ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonavecilla)](https://git.io/streak-stats)
