@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
  <a target="_blank" href="https://github.com/jasonavecilla?tab=stars">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
   </a>
 </div>
 
