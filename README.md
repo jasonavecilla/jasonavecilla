@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines .<br>
-### [Projects here](https://github.com/jasonavecilla?tab=repositories)
+### [Projects here](https://github.com/jasonavecilla?tab=stars)
 Contact me now and let's shape the future together! 💌🌍 <br>
 🎓 Proud Kodego & Chingu.io Alum <br>
 🚀 Active member of the prestigious Chingu.io community <br>
