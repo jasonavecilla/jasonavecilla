@@ -1,58 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  <div id="badges">
-  
-  <a target="_blank" href="avecillajason77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
- <a target="_blank" href="https://github.com/jasonavecilla?tab=stars">
-    <img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
-  </a>
-</div>
-
-  <h1>
-  Let's connect
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="50" height="50" />
-</h1>
-</div>
-  <div align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="NUX_Octodex">
-  </div>
-  
-  ---
-
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines .<br>
-
-Contact me now and let's shape the future together! 💌🌍 <br>
-🎓 Proud Kodego & Chingu.io Alum <br>
-🚀 Active member of the prestigious Chingu.io community <br>
-- :telescope: I’m  Full stack Developer, contributing to frontend and backend for building web applications.
-- :seedling: Leading agile team to complete various projects.
-- :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
+# 💫 About Me:
+ Proud Kodego & Chingu.io Alum | Full Stack Developer | Active member of the Chingu.io community | Bestlink College of the Philippines 💻🌟 #FullStackDev #ChinguCommunity #KodegoAlumni
 
 
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jasonavecilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jasonavecilla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonavecilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-  
-  
 ---
+[![](https://visitcount.itsvg.in/api?id=jasonavecilla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,laravel,tailwind,mysql,bootstrap,php,next,jquery,express,sequelize,postgresql,sqlite,flask,git,github,figma,django,ruby,rails,python,typescript,vscode,sass,less,npm,vite)](https://skillicons.dev)
-
-
-  ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonavecilla)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonavecilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vinhqua/vinhqua/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
