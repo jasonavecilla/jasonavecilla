@@ -1,5 +1,5 @@
 # 💫 About Me:
- Proud Kodego & Chingu.io Alum | Full Stack Developer | Active member of the Chingu.io community | Bestlink College of the Philippines 💻🌟 #FullStackDev #ChinguCommunity #KodegoAlumni
+Full Stack Developer | Kodego & Chingu.io Alum | Engaged in the vibrant Chingu.io community | Currently studying at Bestlink College of the Philippines 💻 #TechEnthusiast #Chingu #Kodego
 
 
 # 💻 Tech Stack:
